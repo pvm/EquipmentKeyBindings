@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"FriendlyName": "EquipmentKeyBindings",
+	"VersionName": "1.1.0",
+	"FriendlyName": "Equipment Key Bindings",
 	"Description": "This mod allows you to bind the hand equipments to specific keys",
 	"Category": "Modding",
 	"CreatedBy": "Vanzin",
@@ -28,6 +28,6 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.1.0",
 	"GameVersion": ">=365306"
 }
